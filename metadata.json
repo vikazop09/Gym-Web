@@ -1,0 +1,6 @@
+{
+  "name": "Indian Fitness Gym",
+  "description": "Premium, minimal, and professional monochrome fitness destination in Delhi. Discipline builds a stronger you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
